@@ -1,0 +1,32 @@
+{
+  "toolbarTitle": "Feeding Mode",
+  "items": [
+    {
+      "key": "fries",
+      "label": "fries",
+      "imgSrc": "food1.png",
+      "liked": true,
+      "w": 100,
+      "h": 100,
+      "type": "normal"
+    },
+    {
+      "key": "lime",
+      "label": "lime",
+      "imgSrc": "food2.png",
+      "liked": false,
+      "w": 100,
+      "h": 100,
+      "type": "normal"
+    },
+    {
+      "key": "can",
+      "label": "can",
+      "imgSrc": "food3.png",
+      "liked": true,
+      "w": 100,
+      "h": 100,
+      "type": "normal"
+  }
+  ]
+}

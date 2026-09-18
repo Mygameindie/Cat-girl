@@ -1,0 +1,8 @@
+{
+  "crops": [
+    { "key": "fries",           "label": "fries",            "seedImg": "food1.png" },
+    { "key": "lime", "label": "lime",     "seedImg": "food2.png" },
+    { "key": "can",   "label": "can",       "seedImg": "food3.png" }
+	
+  ]
+}
